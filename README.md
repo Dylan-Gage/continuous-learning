@@ -4,4 +4,4 @@ This repository is a collection of all the code from my Online Courses. These ar
 
 | Website | Course Completed | Key Skills | Link to Folder & Certificate |
 | --- | --- | --- | --- |
-| Kaggle | Introduction to Machine Learning | tbd | link |
+| Kaggle | Introduction to Machine Learning | tbd | link | [Code](Intro to Machine Learning) & [Certificate](Certificate)
